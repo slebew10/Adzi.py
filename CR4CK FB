@@ -1,0 +1,9 @@
+pkg update && pkg upgrade -y
+   $ pkg install python git - y
+   $ python -m pip install --upgrade pip
+   $ git clone https://github.com/AngCyber/MultiBF
+cd $HOME/MultiBF
+   $ git pull
+   $ pip install requests bs4
+   $ pip install get_useragents
+   $ python run.py
