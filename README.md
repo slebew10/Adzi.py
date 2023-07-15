@@ -1,0 +1,2 @@
+# Adzi.py
+SCRIP TOOLS CRACK FB
